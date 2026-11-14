@@ -72,7 +72,7 @@ namespace aplikacjadesktopowa7
         {
             if (string.IsNullOrEmpty(lastHaslo))
             {
-                // jeśli hasło jeszcze nie zostało wygenerowane, wygeneruj teraz
+               
                 lastHaslo = GeneratePassword();
             }
 
