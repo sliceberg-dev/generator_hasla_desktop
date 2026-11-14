@@ -1,0 +1,5 @@
+System operacyjny: Windows 11 
+
+Środowisko programistyczne: Visual Studio 
+
+Język programowania: C#  
